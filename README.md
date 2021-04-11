@@ -17,7 +17,6 @@
 - 📫 How to reach me via LinkedIn @rolanderdei
 
 <br/>
-<br/>
 
 <a href="https://github.com/ERoland98">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eroland98&theme=light&hide_langs_below=1" />
