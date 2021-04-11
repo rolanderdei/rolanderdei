@@ -2,8 +2,11 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/rolanderdei/">
+<a href="https://linkedin.com/in/rolanderdei">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://kaggle.com/rolanderdei">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
 <a href="https://github.com/ERoland98">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
