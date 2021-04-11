@@ -19,5 +19,5 @@
 <br/>
 
 <a href="https://github.com/ERoland98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eroland98&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eroland98&theme=light&langs_count=10" />
 </a>
