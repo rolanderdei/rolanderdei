@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roland Erdei</h1>
 <h3 align="center">A passionate data scientist from Hungary</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rolanderdei" alt="rolanderdei" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [github.com/rolanderdei](github.com/rolanderdei)
 
 - 📄 Know about my experiences [rolanderdei.github.io/Roland-Erdei](rolanderdei.github.io/Roland-Erdei)
